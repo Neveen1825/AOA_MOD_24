@@ -1,5 +1,4 @@
 # EX 6A CHERRY PICK UP PROBLEM
-## DATE:
 ## AIM:
 To Create a python program for the following problem statement.
 You are given an n x n grid representing a field of cherries, each cell is one of three possible integers.
@@ -24,8 +23,8 @@ When passing through a path cell containing a cherry, you pick it up, and the ce
 ## Program:
 ```
 To implement the program for Cherry pickup problem.
-Developed by: Saravanan PV
-Register Number: 212223230195 
+Developed by: Naveen Kanthan L
+Register Number: 212223230138
 ```
 ```py
 class Solution:
