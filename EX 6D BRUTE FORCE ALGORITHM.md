@@ -1,5 +1,4 @@
 # EX 6D BRUTE FORCE ALGORITHM
-## DATE:
 ## AIM:
 To write a python program using brute force method of searching for the given substring in the main string.
 
@@ -32,8 +31,6 @@ def match(string,sub):
         if j==ls:
             print("Found at index",i)
     return -1
-
-    ########### Add your code here #######
 
 str1=input()
 str2=input()
